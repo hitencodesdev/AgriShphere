@@ -30,18 +30,12 @@ AgriSphere is a comprehensive agricultural management platform designed to empow
 - **Framework**: React.js
 - **State Management**: Redux Toolkit
 - **Styling**: Tailwind CSS
-- **Charting**: Recharts
 
 ### Backend
 - **Framework**: Node.js with Express.js
 - **Database**: MongoDB
 - **Authentication**: JWT (JSON Web Tokens)
 - **APIs**: RESTful APIs for data exchange
-
-### AI & Analytics
-- **Machine Learning**: TensorFlow.js for crop health analysis
-- **Data Processing**: Pandas (via Python backend integration)
-- **Weather Data**: OpenWeatherMap API
 
 ## Getting Started
 
@@ -130,6 +124,7 @@ Contributions are welcome! Please follow these steps:
 For questions or support, please contact [hitengarg918@gmail.com](mailto:[hitengarg918@gmail.com]).
 
 ---
+
 
 
 
