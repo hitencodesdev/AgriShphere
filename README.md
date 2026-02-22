@@ -5,8 +5,6 @@ AgriSphere is a comprehensive agricultural management platform designed to empow
 ## Features
 
 ### 1. Smart Farming Dashboard
-- **Real-time Analytics**: Monitor soil moisture, temperature, humidity, and nutrient levels.
-- **Crop Health Monitoring**: AI-powered disease detection and yield prediction.
 - **Weather Integration**: Hyperlocal weather forecasts and alerts.
 
 ### 2. Resource Management
@@ -124,6 +122,7 @@ Contributions are welcome! Please follow these steps:
 For questions or support, please contact [hitengarg918@gmail.com](mailto:[hitengarg918@gmail.com]).
 
 ---
+
 
 
 
